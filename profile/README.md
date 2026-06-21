@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 <h1>{codomain}</h1>
@@ -11,7 +12,7 @@
 <br>
 
 <img
-  src="./assets/codomain-terminal.svg"
+  src="https://raw.githubusercontent.com/codomain-app/.github/main/assets/codomain-terminal.svg
   width="700"
   alt="terminal: coming soon"
 />
@@ -28,4 +29,4 @@
 </p>
 
 </div>
-
+```
