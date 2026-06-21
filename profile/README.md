@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Codomain</h1>
+<h1>{codomain}</h1>
 
 <p><em>Developing intelligent systems that transform information into understanding, reasoning, and action.</em></p>
 
