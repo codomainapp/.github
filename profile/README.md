@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codomain-app/.github/main/assets/codomain-logo.png" width="140" alt="codomain logo">
-
 <h1>codomain</h1>
 
 <p><em>Developing intelligent systems that transform information into understanding, reasoning, and action.</em></p>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/codomain-app/.github/main/assets/codomain-terminal.svg" width="600" alt="terminal: coming soon">
+<img src="https://raw.githubusercontent.com/codomain-app/.github/main/assets/codomain-terminal.svg" width="700" alt="terminal: coming soon">
 
 <br>
 
